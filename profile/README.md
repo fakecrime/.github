@@ -12,5 +12,5 @@ that reflect your unique personality & creativity.
 -   [fakecrime.bio](https://fakecrime.bio)
 
 ## 📞 Contact
--   [E-Mail](https://fakecri.me)
+-   [E-Mail](mailto:email@fakecrime.bio)
 -   [Discord](https://discord.gg/fakecrime)
